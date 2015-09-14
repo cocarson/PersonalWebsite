@@ -8,4 +8,4 @@ Add in projects section.
 
 Upload resume.
 
-Add gulpfile to minify css.
+Add gulpfile.
